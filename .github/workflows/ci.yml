@@ -3,7 +3,7 @@ name: First CI
 on: 
   push:
     branches:
-      - main
+      - start
 
 
 jobs:
